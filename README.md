@@ -12,7 +12,7 @@
     - [동기식 호출 과 Fallback 처리](#동기식-호출-과-Fallback-처리)
     - [비동기식 호출 과 Eventual Consistency](#비동기식-호출-과-Eventual-Consistency)
   - [운영](https://github.com/fineman428/team-Report/blob/main/README.md#%EC%9A%B4%EC%98%81)
-    - [CI/CD 설정](#-CI/CD-설정)
+    - [CI/CD 설정](#CI/CD-설정)
     - [동기식 호출 / 서킷 브레이킹 / 장애격리](#동기식-호출-서킷-브레이킹-장애격리)
     - [오토스케일 아웃](#오토스케일-아웃)
     - [무정지 재배포](#무정지-재배포)
